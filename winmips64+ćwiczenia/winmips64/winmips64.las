@@ -1,0 +1,1 @@
+C:\Users\Bartek\Desktop\LAB_AK\winmips64+æwiczenia\cw1\program.s
